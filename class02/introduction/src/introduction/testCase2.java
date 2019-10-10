@@ -9,7 +9,7 @@ public class testCase2 {
 		// TODO Auto-generated method stub
 				//selenium code
 				//create driver object for chrome browser
-				// Class name - ChromeDriver
+				// Class name - FirefoxDriver(gecko)
 				
 				//invoke .exe file first
 				
